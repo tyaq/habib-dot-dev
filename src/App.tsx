@@ -1,11 +1,13 @@
 import { Hero } from "./components/Hero";
 import { ProjectGrid } from "./components/ProjectGrid";
+import { Footer } from "./components/Footer";
 
 function App() {
   return (
     <main className="min-h-screen">
       <Hero />
       <ProjectGrid />
+      <Footer />
     </main>
   );
 }
