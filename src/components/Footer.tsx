@@ -1,5 +1,5 @@
 const socialLinks = [
-  { label: "GitHub", url: "https://github.com/ihabib", icon: "github" },
+  { label: "GitHub", url: "https://github.com/tyaq", icon: "github" },
 ];
 
 function SocialIcon({ type }: { type: string }) {
