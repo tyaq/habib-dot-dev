@@ -6,7 +6,7 @@ export function Hero() {
       >
         habib.dev
       </h1>
-      <p className="mt-4 text-lg text-[#a0a0a0]">software & things</p>
+      <p className="mt-4 text-lg text-[#a0a0a0]">made with ❤️</p>
     </section>
   );
 }
