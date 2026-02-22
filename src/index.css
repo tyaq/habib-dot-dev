@@ -8,3 +8,15 @@
   --color-accent-purple: #a78bfa;
   --color-accent-orange: #fb923c;
 }
+
+@keyframes gradient-shimmer {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
